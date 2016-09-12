@@ -1,0 +1,1 @@
+{"version":3,"sources":["template_string.es6"],"names":[],"mappings":";;AAAA,IAAI,gBAAJ;;AAGA,QAAQ,GAAR,CAAY,GAAZ;;AAEA,IAAI,OAAO,KAAX;AACA,QAAQ,GAAR,aAAsB,IAAtB","file":"template_string.js","sourcesContent":["let str = `aaa\nbbb`;\n\nconsole.log(str);\n\nlet name = 'Sei';\nconsole.log(`Hello! ${name}`);"]}
