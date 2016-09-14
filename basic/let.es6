@@ -1,6 +1,6 @@
-if(true){
+if ( true ){
   let i = 1;
-  console.log(i);
+  console.log( i );
 }
 
 // console.log(i); //エラー
@@ -8,7 +8,7 @@ if(true){
 //SWITCH
 let k = 2;
 let value;
-switch(k){
+switch ( k ) {
   case 0:
     value = 0;
     break;
@@ -16,8 +16,8 @@ switch(k){
     value = 1;
     break;
   default:
-      value = 2;
+    value = 2;
     break;
 }
 
-console.log(value);
+console.log( value );
